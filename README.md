@@ -1,4 +1,4 @@
-# Python-API-challenge: What's the Weather Like?
+# What's the Weather Like?
 
 This repository contains scripts and outputs for two challenges: WeatherPy and VacationPy.
 
